@@ -1,0 +1,11 @@
+c:\users\zaine\documents\visual studio 2015\Projects\PrankClient\PrankClient\bin\Debug\PrankClient.exe.config
+c:\users\zaine\documents\visual studio 2015\Projects\PrankClient\PrankClient\bin\Debug\PrankClient.exe
+c:\users\zaine\documents\visual studio 2015\Projects\PrankClient\PrankClient\bin\Debug\PrankClient.pdb
+c:\users\zaine\documents\visual studio 2015\Projects\PrankClient\PrankClient\bin\Debug\Vlc.DotNet.Core.dll
+c:\users\zaine\documents\visual studio 2015\Projects\PrankClient\PrankClient\bin\Debug\Vlc.DotNet.Core.Interops.dll
+c:\users\zaine\documents\visual studio 2015\Projects\PrankClient\PrankClient\obj\Debug\PrankClient.csprojResolveAssemblyReference.cache
+c:\users\zaine\documents\visual studio 2015\Projects\PrankClient\PrankClient\obj\Debug\PrankClient.exe
+c:\users\zaine\documents\visual studio 2015\Projects\PrankClient\PrankClient\obj\Debug\PrankClient.pdb
+c:\users\zaine\documents\visual studio 2015\Projects\PrankClient\PrankClient\obj\Debug\Interop.WMPLib.dll
+c:\users\zaine\documents\visual studio 2015\Projects\PrankClient\PrankClient\obj\Debug\PrankClient.csproj.ResolveComReference.cache
+c:\users\zaine\documents\visual studio 2015\Projects\PrankClient\PrankClient\obj\Debug\Interop.InteropExtensionLib.dll
